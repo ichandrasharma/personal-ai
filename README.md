@@ -9,7 +9,7 @@ This is a personal AI that **works entirely offline**, using **Spring AI** for t
 ![SS](Output/ss.png)
 <br>
 
-![Demo](Output/video.mp4)
+![Watch the Video](Output/video.mp4)
 
 
 <br>
