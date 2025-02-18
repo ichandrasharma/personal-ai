@@ -6,10 +6,10 @@ This is a personal AI that **works entirely offline**, using **Spring AI** for t
 
 ## How it looks like:
 
-![SS](output/ss.png)
+![SS](Output/ss.png)
 <br>
 
-![Demo](output/video.mp4)
+![Demo](Output/video.mp4)
 
 
 <br>
